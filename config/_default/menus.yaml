@@ -1,0 +1,59 @@
+leftnav:
+- identifier: a2c2012c-65f7-a019-c0b6-2c32f50361c3
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e48ad893-b6b2-f83f-ba3d-46201a6e8534
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 30
+- identifier: 7fda0a84-552b-65f3-daee-980dd77e6d64
+  name: Factors Influencing the Design of the Course
+  pageRef: /pages/instructor-insights/factors-influencing-the-design-of-the-course
+  parent: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
+  weight: 40
+- identifier: c14c285b-269f-9094-1ea8-32c8f19dadde
+  name: Different Audiences, Different Learning Goals
+  pageRef: /pages/instructor-insights/different-audiences-different-learning-goals
+  parent: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
+  weight: 50
+- identifier: 6b84b2d1-3fcd-5515-469e-e2a4b44be3b5
+  name: Offering a Menu of Ways to Learn
+  pageRef: /pages/instructor-insights/offering-a-menu-of-ways-to-learn
+  parent: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
+  weight: 60
+- identifier: ee3ae23f-94de-c779-664d-35b67c946cfd
+  name: Using Case Learning Modules
+  pageRef: /pages/instructor-insights/using-case-studies
+  parent: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
+  weight: 70
+- identifier: a14f49c4-6983-21e6-2339-9ff39d9e3d8e
+  name: Developing Cases with Students
+  pageRef: /pages/instructor-insights/developing-case-studies-with-students
+  parent: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
+  weight: 80
+- identifier: 08a37ba1-b7f2-1b0c-134c-3f8618a8cd68
+  name: Collaborating and Iterating From Year to Year
+  pageRef: /pages/instructor-insights/collaborating-and-iterating-from-year-to-year
+  parent: 9ffd63fe-edd9-fb69-0f25-5dd97ffa3788
+  weight: 90
+- identifier: 985636e3-a5c5-7b02-beee-2ddb063eef02
+  name: Readings
+  pageRef: /pages/readings
+  weight: 100
+- identifier: 4f7da72f-136e-9c19-6b13-2f551f91b7dd
+  name: Lecture Summaries
+  pageRef: /pages/lecture-summaries
+  weight: 110
+- identifier: f41b5b04-9595-61f9-fa4b-04cc5ceb0484
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 120
+- identifier: ecbb0ab0-f4bf-d744-4b27-9f92236df06d
+  name: Case Learning Modules
+  pageRef: /pages/case-learning-modules
+  weight: 130

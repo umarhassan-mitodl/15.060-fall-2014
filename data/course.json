@@ -46,6 +46,7 @@
     "website": "15-060-data-models-and-decisions-fall-2014"
   },
   "course_title": "Data, Models, and Decisions",
+  "hide_download": true,
   "course_description": "This course is designed to introduce first-year Sloan MBA students to the fundamental techniques of using data. In particular, the course focuses on various ways of modeling, or thinking structurally about decision problems in order to make informed management decisions.\n",
   "department_numbers": [
     "15"
@@ -56,6 +57,7 @@
     "content": "4a5c2115-c4dd-ed91-92d1-8ef392a2e39a",
     "website": "15-060-data-models-and-decisions-fall-2014"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Instructor Insights"

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provide information on the assigned cases for the course
   and additional cases developed by the faculty.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Learning Modules

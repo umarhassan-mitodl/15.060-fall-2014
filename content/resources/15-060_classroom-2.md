@@ -4,8 +4,6 @@ description: ''
 file: /courses/15-060-data-models-and-decisions-fall-2014/0d8a9adfcef16a7f6fdf973f6817b779_15-060_classroom-2.jpg
 file_size: 59108
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

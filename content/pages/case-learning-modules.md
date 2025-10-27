@@ -29,6 +29,6 @@ Additional Cases Developed by the Faculty
 
 Faculty members collaborated with students to create new, relevant case modules to enhance the course. The following cases were not required for this version of the course, but are listed as resources here.
 
-*   Freund, Robert M. and Jonathan Potter. “[Vermont City Electric](https://mitsloan.mit.edu/LearningEdge/sustainability/VermontCityElectric/Pages/default.aspx).”
+*   Freund, Robert M. and Jonathan Potter. “{{% resource_link "be938365-9c88-457f-9ac7-8598d35d1896" "Vermont City Electric" %}}.”
 *   Freund, Robert M. and Phil Zakahi. “Milagro: Predicting Store Profitability at a Fast-Casual Restaurant Chain.”
 *   Itzkovich, Tal, Jonathan Lehrich, Georgia Perakis, and Diane Rucker. “Minding Nemo.”
